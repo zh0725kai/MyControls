@@ -5,3 +5,12 @@ F:\360云盘\learn\softwareLearn\vs\git\MyControls\MyControls\bin\Debug\MyContro
 F:\360云盘\learn\softwareLearn\vs\git\MyControls\MyControls\bin\Debug\MyControls.pdb
 F:\360云盘\learn\softwareLearn\vs\git\MyControls\MyControls\obj\Debug\MyControls.dll
 F:\360云盘\learn\softwareLearn\vs\git\MyControls\MyControls\obj\Debug\MyControls.pdb
+D:\Seafile\mySeafile\CSharp\GitHub\MyControls\MyControls\MyControls\bin\Debug\MyControls.dll
+D:\Seafile\mySeafile\CSharp\GitHub\MyControls\MyControls\MyControls\bin\Debug\MyControls.pdb
+D:\Seafile\mySeafile\CSharp\GitHub\MyControls\MyControls\MyControls\obj\Debug\MyControls.csprojResolveAssemblyReference.cache
+D:\Seafile\mySeafile\CSharp\GitHub\MyControls\MyControls\MyControls\obj\Debug\MyControls.AGauge.resources
+D:\Seafile\mySeafile\CSharp\GitHub\MyControls\MyControls\MyControls\obj\Debug\MyControls.Thermometer.resources
+D:\Seafile\mySeafile\CSharp\GitHub\MyControls\MyControls\MyControls\obj\Debug\MyControls.csproj.GenerateResource.cache
+D:\Seafile\mySeafile\CSharp\GitHub\MyControls\MyControls\MyControls\obj\Debug\MyControls.csproj.CoreCompileInputs.cache
+D:\Seafile\mySeafile\CSharp\GitHub\MyControls\MyControls\MyControls\obj\Debug\MyControls.dll
+D:\Seafile\mySeafile\CSharp\GitHub\MyControls\MyControls\MyControls\obj\Debug\MyControls.pdb

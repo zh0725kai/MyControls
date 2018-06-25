@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyControls", "MyControls\MyControls.csproj", "{1749D3EF-AD6A-47E6-B832-A003CFAEF3C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrmTestControls", "FrmTestControls\FrmTestControls.csproj", "{A91750F5-120D-4B24-A53D-935444BB0E6A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +17,15 @@ Global
 		{1749D3EF-AD6A-47E6-B832-A003CFAEF3C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1749D3EF-AD6A-47E6-B832-A003CFAEF3C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1749D3EF-AD6A-47E6-B832-A003CFAEF3C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A91750F5-120D-4B24-A53D-935444BB0E6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A91750F5-120D-4B24-A53D-935444BB0E6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A91750F5-120D-4B24-A53D-935444BB0E6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A91750F5-120D-4B24-A53D-935444BB0E6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0762FF3F-A8D5-4567-9ED0-93245AEE8A3E}
 	EndGlobalSection
 EndGlobal
